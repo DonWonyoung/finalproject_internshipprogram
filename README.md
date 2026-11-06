@@ -8,5 +8,12 @@ Open Visual Studio Code and add two new terminals.<br>
 - Open new terminal and type ```php artisan add:filament-user```.<br>
 Open new tab and then type ```http://localhost:8000/admin``` for the Filament login page.<br>
 
+# Tech stack:
+- React JS
+- Laravel
+- MySQL
+- SCSS
+- Ngrok
+
 # Demo Video
 Video demo link: [https://drive.google.com/file/d/1XOUwHQvhoyoznJmxgoodIzAoPafqIebK/view?usp=sharing](https://drive.google.com/file/d/1XOUwHQvhoyoznJmxgoodIzAoPafqIebK/view?usp=sharing)
